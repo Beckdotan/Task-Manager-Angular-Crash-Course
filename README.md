@@ -27,7 +27,7 @@ Install JsonServer in the folder using: `npm install -g json-server`
 
 Run in VS code terminal: `json-server --watch db.json --port 5000`
 
-For more information about the server side [click here](json-server --watch db.json --port 5000)
+For more information about the server side [click here](https://www.npmjs.com/package/json-server)
 
 ## Running unit tests
 
