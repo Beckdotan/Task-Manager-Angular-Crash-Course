@@ -21,11 +21,18 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
 Install JsonServer in the folder using: `npm install -g json-server`
 
-Run in VS code terminal: `json-server --watch db.json --port 5000`
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+Then Run `ng serve`for running the app. 
+
+Then run in VS code terminal: `json-server --watch db.json --port 5000`
+
+In browser go to [http://localhost:5000/](http://localhost:5000/) and make sure you can see a json file. 
+
+In brouwser go to [http://localhost:4200/](http://localhost:4200/) to use the app. 
+
 
 For more information about the server side [click here](https://www.npmjs.com/package/json-server)
 
