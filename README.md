@@ -1,3 +1,12 @@
+# Task-Manager-Angular-Crash-Course
+
+I created this Task Manager while learning Angular for the first time. 
+This webApp is using json server as a server and html to communicate with it. 
+In the frontend side we have 2 routes and few components made with buttons, forms, text and more. 
+we have real time updating UI compounents in the UI in real time. 
+
+---------------------------------------------------
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
@@ -25,4 +34,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Task-Manager-Angular-Crash-Course
+
