@@ -29,7 +29,7 @@ Then Run `ng serve`for running the app.
 
 Then run in VS code terminal: `json-server --watch db.json --port 5000`
 
-In browser go to [http://localhost:5000/](http://localhost:5000/) and make sure you can see a json file. 
+In browser go to [http://localhost:5000/tasks](http://localhost:5000/tasks) and make sure you can see a json file. 
 
 In brouwser go to [http://localhost:4200/](http://localhost:4200/) to use the app. 
 
