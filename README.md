@@ -5,6 +5,9 @@ This webApp is using json server as a server and html to communicate with it.
 In the frontend side we have 2 routes and few components made with buttons, forms, text and more. 
 we have real time updating UI compounents in the UI in real time. 
 
+
+https://youtu.be/6iKup8nCGCM
+
 ---------------------------------------------------
 
 # AngularCrash
